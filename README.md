@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=A+Front+end+developer)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=A+Front+end+developer)](https://git.io/typing-svg)
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MostafaHamdy3?tab=repositories](https://github.com/MostafaHamdy3?tab=repositories)
 
