@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=I'm+Mostafa+Hamdy)](https://git.io/typing-svg)
-
-  <h3 align="center">A Front-end developer</h3>
+  <h2 align="center">A Front-end developer</h2>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MostafaHamdy3?tab=repositories](https://github.com/MostafaHamdy3?tab=repositories)
 
