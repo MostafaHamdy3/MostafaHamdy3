@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=I'm+Mostafa+Hamdy)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi 👋</h1>
 
 <!--
 **MostafaHamdy3/MostafaHamdy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=I'm+Mostafa+Hamdy)](https://git.io/typing-svg)
 
   <h3 align="center">A Front-end developer</h3>
 
