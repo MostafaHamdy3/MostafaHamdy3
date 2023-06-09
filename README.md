@@ -36,5 +36,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MostafaHamdy3=anuraghazra&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaHamdy3)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaHamdy3&show_icons=true&locale=en" alt="MostafaHamdy3" /></p>
