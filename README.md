@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/MostafaHamdy3/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mostafa Hamdy's streak" src="https://streak-stats.demolab.com/?user=MostafaHamdy3&theme=dark"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mostafa Hamdy's streak" src="https://streak-stats.demolab.com/?user=MostafaHamdy3&theme=dark" />
     </a>
 </p>
 
