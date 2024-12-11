@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/MostafaHamdy3/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mostafa Hamdy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHamdy3&theme=default&hide_border=false&"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mostafa Hamdy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHamdy3&theme=default&hide_border=false" />
     </a>
 </p>
+
 <p align="center">
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaHamdy3&show_icons=true&locale=en" alt="MostafaHamdy3" />
 </p>
