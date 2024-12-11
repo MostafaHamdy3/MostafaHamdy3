@@ -35,6 +35,7 @@ Here are some ideas to get you started:
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mostafa Hamdy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaHamdy3&theme=dark" />
     </a>
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MostafaHamdy3&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaHamdy3&show_icons=true&locale=en" alt="MostafaHamdy3" />
