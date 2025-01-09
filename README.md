@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaHamdy3&show_icons=true&locale=en" alt="MostafaHamdy3" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaHamdy3&theme=dark&show_icons=true&locale=en" alt="MostafaHamdy3" />
 </p>
 
 ### 📊 Most Used Languages Card
