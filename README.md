@@ -26,7 +26,7 @@
 <div class="badge-row">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-JAVA-FFEA00?style=flat&logo=java&logoColor=ffffff" alt="Java">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff" alt="Java">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff" alt="CSS3">
 </div>
@@ -38,25 +38,33 @@
 </div>
 
 #### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=ffffff" alt="Expo">
+</div>
 
 #### Styling & UI
-![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/-NativeWind-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff" alt="NativeWind">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS">
+</div>
 
 #### State Management & Data
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![MMKV](https://img.shields.io/badge/MMKV-00D9FF?style=for-the-badge&logo=react&logoColor=white)
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat&logo=react&logoColor=ffffff" alt="Zustand">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff" alt="Redux">
+  <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=ffffff" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/-MMKV-00D9FF?style=flat&logo=react&logoColor=ffffff" alt="MMKV">
+</div>
 
 #### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" alt="Figma">
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=ffffff" alt="Jira">
+</div>
 
 <p align="center">
     <a href="https://github.com/MostafaHamdy3/github-readme-streak-stats">
