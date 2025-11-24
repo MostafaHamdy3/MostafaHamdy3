@@ -1,44 +1,46 @@
-<h1 align="center">Hi 👋, I'm Mostafa Hamdy</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Mostafa Hamdy</h1>
 
-<!--
-**MostafaHamdy3/MostafaHamdy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=A+React+Native+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&height=60&lines=A+React+Native+developer)](https://git.io/typing-svg)
+- 💻 **React Native Developer with +2 years of experience** specializing in **React Native**, **Expo**, **JavaScript** **TypeScript**, and **NativeWind**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/MostafaHamdy3?tab=repositories](https://github.com/MostafaHamdy3?tab=repositories)
+- 🎓 Graduated with Honors in **Computer Engineering (B.Sc.)**.
 
-- 💬 Ask me about **React | React Native**
+- 🎨 Skilled at translating **Figma designs** into functional, cross-platform UIs, enhancing **user experience** and **business outcomes**.
 
-- 📫 How to reach me **mostafa44hamdy@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mostafa-7amdy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas youssef" height="30" width="40" /></a>
-</p>
+### 📧 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)](https://mostafa7amdy.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-7amdy/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mostafa44hamdy@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201093939204)
 
-## 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+
+## 🛠 Tech Stack
+
+#### Languages
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-JAVA-FFEA00?style=flat&logo=java&logoColor=ffffff" alt="Java">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff" alt="CSS3">
+</div>
+
+#### APIs
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff" alt="REST API">
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff" alt="Axios">
+</div>
 
 ## 🚀 Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🎨 Styling & UI
 ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
